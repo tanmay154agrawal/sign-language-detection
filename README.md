@@ -15,11 +15,10 @@ PIL\
 Note: All versions of this library are compatible with this repository.\
 To clone this repository\
 ```git clone https://github.com/tanmay154agrawal/sign-language-detection.git```\
-This repository has four ipynb files.\
+This repository has three ipynb files.\
 1.) CNN implementation for Sign language detetcion.\
 2.) Visual Bag of words implementation.\
 3.) Transfer Learning using Efficient Network\
-4.) Code to run the model in real Time (Note: This ipynb file will not work in google colab environmnt)\
 To run the ipynb files use google colab on GPU runtime (prefered)\
 To test the model in real time , run the Gesture_recognition file. (Note: Google colab environment will not work)\
 To get the dataset, download it from "https://www.kaggle.com/datasets/prathumarikeri/indian-sign-language-isl"
