@@ -19,5 +19,6 @@ This repository has two ipynb files.\
 1.) CNN implementation for Sign language detetcion.\
 2.) Visual Bag of words implementation.\
 To run the ipynb files use google colab on GPU runtime (prefered)\
+To test the model in real time , run the Gesture_recognition file. (Note: Google colab environment will not work)\
 To get the dataset, download it from "https://www.kaggle.com/datasets/prathumarikeri/indian-sign-language-isl"
 and upload it into your google drive and mount it.
